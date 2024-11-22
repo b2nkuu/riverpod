@@ -1,0 +1,162 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.Sidebar.category.Introduction": {
+    "message": "Introduction",
+    "description": "The label for category Introduction in sidebar Sidebar"
+  },
+  "sidebar.Sidebar.category.Riverpod for Provider Users": {
+    "message": "Riverpod for Provider Users",
+    "description": "The label for category Riverpod for Provider Users in sidebar Sidebar"
+  },
+  "sidebar.Sidebar.category.Essentials": {
+    "message": "Essentials",
+    "description": "The label for category Essentials in sidebar Sidebar"
+  },
+  "sidebar.Sidebar.category.Case studies": {
+    "message": "Case studies",
+    "description": "The label for category Case studies in sidebar Sidebar"
+  },
+  "sidebar.Sidebar.category.Advanced topics": {
+    "message": "Advanced topics",
+    "description": "The label for category Advanced topics in sidebar Sidebar"
+  },
+  "sidebar.Sidebar.category.Concepts": {
+    "message": "Concepts",
+    "description": "The label for category Concepts in sidebar Sidebar"
+  },
+  "sidebar.Sidebar.category.Migration guides": {
+    "message": "Migration guides",
+    "description": "The label for category Migration guides in sidebar Sidebar"
+  },
+  "sidebar.Sidebar.category.Official examples": {
+    "message": "Official examples",
+    "description": "The label for category Official examples in sidebar Sidebar"
+  },
+  "sidebar.Sidebar.category.Third party examples": {
+    "message": "Third party examples",
+    "description": "The label for category Third party examples in sidebar Sidebar"
+  },
+  "sidebar.Sidebar.category.Concepts 🚧": {
+    "message": "Concepts 🚧",
+    "description": "The label for category Concepts 🚧 in sidebar Sidebar"
+  },
+  "sidebar.Sidebar.category.Modifiers": {
+    "message": "Modifiers",
+    "description": "The label for category Modifiers in sidebar Sidebar"
+  },
+  "sidebar.Sidebar.category.All Providers 🚧": {
+    "message": "All Providers 🚧",
+    "description": "The label for category All Providers 🚧 in sidebar Sidebar"
+  },
+  "sidebar.Sidebar.category.Guides 🚧": {
+    "message": "Guides 🚧",
+    "description": "The label for category Guides 🚧 in sidebar Sidebar"
+  },
+  "sidebar.Sidebar.link.Counter": {
+    "message": "Counter",
+    "description": "The label for link Counter in sidebar Sidebar, linking to https://github.com/rrousselGit/riverpod/tree/master/examples/counter"
+  },
+  "sidebar.Sidebar.link.Todo list": {
+    "message": "Todo list",
+    "description": "The label for link Todo list in sidebar Sidebar, linking to https://github.com/rrousselGit/riverpod/tree/master/examples/todos"
+  },
+  "sidebar.Sidebar.link.Pub.dev client": {
+    "message": "Pub.dev client",
+    "description": "The label for link Pub.dev client in sidebar Sidebar, linking to https://github.com/rrousselGit/riverpod/tree/master/examples/pub"
+  },
+  "sidebar.Sidebar.link.Marvel API": {
+    "message": "Marvel API",
+    "description": "The label for link Marvel API in sidebar Sidebar, linking to https://github.com/rrousselGit/riverpod/tree/master/examples/marvel"
+  },
+  "sidebar.Sidebar.link.DummyMart: Full CRUD app with authentication + go_router integration": {
+    "message": "DummyMart: Full CRUD app with authentication + go_router integration",
+    "description": "The label for link DummyMart: Full CRUD app with authentication + go_router integration in sidebar Sidebar, linking to https://github.com/dhafinrayhan/dummymart"
+  },
+  "sidebar.Sidebar.link.Easy Todo Riverpod Architecture": {
+    "message": "Easy Todo Riverpod Architecture",
+    "description": "The label for link Easy Todo Riverpod Architecture in sidebar Sidebar, linking to https://github.com/ilovekimchi6/todo_easy_riverpod_architecture"
+  },
+  "sidebar.Sidebar.link.Android Launcher": {
+    "message": "Android Launcher",
+    "description": "The label for link Android Launcher in sidebar Sidebar, linking to https://github.com/lohanidamodar/fl_live_launcher"
+  },
+  "sidebar.Sidebar.link.Worldtime Clock": {
+    "message": "Worldtime Clock",
+    "description": "The label for link Worldtime Clock in sidebar Sidebar, linking to https://github.com/lohanidamodar/flutter_worldtime"
+  },
+  "sidebar.Sidebar.link.Dictionary App": {
+    "message": "Dictionary App",
+    "description": "The label for link Dictionary App in sidebar Sidebar, linking to https://github.com/lohanidamodar/fl_dictio"
+  },
+  "sidebar.Sidebar.link.Time Tracking App (with Firebase)": {
+    "message": "Time Tracking App (with Firebase)",
+    "description": "The label for link Time Tracking App (with Firebase) in sidebar Sidebar, linking to https://github.com/bizz84/starter_architecture_flutter_firebase"
+  },
+  "sidebar.Sidebar.link.Firebase Phone Authentication with Riverpod": {
+    "message": "Firebase Phone Authentication with Riverpod",
+    "description": "The label for link Firebase Phone Authentication with Riverpod in sidebar Sidebar, linking to https://github.com/julienlebren/flutter_firebase_phone_auth_riverpod"
+  },
+  "sidebar.Sidebar.link.ListView paging with search": {
+    "message": "ListView paging with search",
+    "description": "The label for link ListView paging with search in sidebar Sidebar, linking to https://github.com/tbm98/flutter_loadmore_search"
+  },
+  "sidebar.Sidebar.link.Resocoder's Weather Bloc to Weather Riverpod V2": {
+    "message": "Resocoder's Weather Bloc to Weather Riverpod V2",
+    "description": "The label for link Resocoder's Weather Bloc to Weather Riverpod V2 in sidebar Sidebar, linking to https://github.com/coyksdev/flutter-bloc-library-v1-tutorial"
+  },
+  "sidebar.Sidebar.link.Blood Pressure Tracker App": {
+    "message": "Blood Pressure Tracker App",
+    "description": "The label for link Blood Pressure Tracker App in sidebar Sidebar, linking to https://github.com/UrosTodosijevic/blood_pressure_tracker"
+  },
+  "sidebar.Sidebar.link.Firebase Authentication with Riverpod Following Flutter DDD Architecture Pattern": {
+    "message": "Firebase Authentication with Riverpod Following Flutter DDD Architecture Pattern",
+    "description": "The label for link Firebase Authentication with Riverpod Following Flutter DDD Architecture Pattern in sidebar Sidebar, linking to https://github.com/pythonhubpy/firebase_authentication_flutter_DDD"
+  },
+  "sidebar.Sidebar.link.Todo App with Backup and Restore feature": {
+    "message": "Todo App with Backup and Restore feature",
+    "description": "The label for link Todo App with Backup and Restore feature in sidebar Sidebar, linking to https://github.com/TheAlphaApp/flutter_riverpod_todo_app"
+  },
+  "sidebar.Sidebar.link.Integrating Hive database with Riverpod (simple example)": {
+    "message": "Integrating Hive database with Riverpod (simple example)",
+    "description": "The label for link Integrating Hive database with Riverpod (simple example) in sidebar Sidebar, linking to https://github.com/GitGud31/theme_riverpod_hive"
+  },
+  "sidebar.Sidebar.link.Browser App with Riverpod": {
+    "message": "Browser App with Riverpod",
+    "description": "The label for link Browser App with Riverpod in sidebar Sidebar, linking to https://github.com/MarioCroSite/simple_browser_app"
+  },
+  "sidebar.Sidebar.link.GoRouter with Riverpod": {
+    "message": "GoRouter with Riverpod",
+    "description": "The label for link GoRouter with Riverpod in sidebar Sidebar, linking to https://github.com/lucavenir/go_router_riverpod"
+  },
+  "sidebar.Sidebar.link.Piano Chords Test": {
+    "message": "Piano Chords Test",
+    "description": "The label for link Piano Chords Test in sidebar Sidebar, linking to https://github.com/akvus/piano_fun"
+  },
+  "sidebar.Sidebar.link.Movies API App with Caching & Pagination": {
+    "message": "Movies API App with Caching & Pagination",
+    "description": "The label for link Movies API App with Caching & Pagination in sidebar Sidebar, linking to https://github.com/Roaa94/movies_app"
+  },
+  "sidebar.Sidebar.link.AWS Amplify Storage Gallery App with Riverpod & Freezed": {
+    "message": "AWS Amplify Storage Gallery App with Riverpod & Freezed",
+    "description": "The label for link AWS Amplify Storage Gallery App with Riverpod & Freezed in sidebar Sidebar, linking to https://github.com/offlineprogrammer/amplify_storage_app"
+  },
+  "sidebar.Sidebar.link.Clean Architecture demonstration with Riverpod": {
+    "message": "Clean Architecture demonstration with Riverpod",
+    "description": "The label for link Clean Architecture demonstration with Riverpod in sidebar Sidebar, linking to https://github.com/Uuttssaavv/flutter-clean-architecture-riverpod"
+  },
+  "sidebar.Sidebar.link.Delivery App with Google Maps and Live Tracking": {
+    "message": "Delivery App with Google Maps and Live Tracking",
+    "description": "The label for link Delivery App with Google Maps and Live Tracking in sidebar Sidebar, linking to https://github.com/AhmedLSayed9/deliverzler"
+  },
+  "sidebar.Sidebar.link.ChatGPT Chat App with Riverpod": {
+    "message": "ChatGPT Chat App with Riverpod",
+    "description": "The label for link ChatGPT Chat App with Riverpod in sidebar Sidebar, linking to https://github.com/never-inc/chat_gpt_boilerplate"
+  },
+  "sidebar.Sidebar.link.API reference": {
+    "message": "API reference",
+    "description": "The label for link API reference in sidebar Sidebar, linking to https://pub.dev/documentation/hooks_riverpod/latest/hooks_riverpod/hooks_riverpod-library.html"
+  }
+}
